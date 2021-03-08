@@ -4,7 +4,7 @@
   "description": "Node script to generate MMRS files from ZSEQ",
   "main": "index.js",
   "scripts": {
-    "test": "run start"
+    "test": "start"
   },
   "repository": {
     "type": "git",
