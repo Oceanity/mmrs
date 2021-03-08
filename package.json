@@ -1,10 +1,10 @@
 {
   "name": "mmrs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node script to generate MMRS files from ZSEQ",
   "main": "index.js",
   "bin": {
-    "mmrs": "./index"
+    "mmrs": "index"
   },
   "scripts": {
     "test": "start"
