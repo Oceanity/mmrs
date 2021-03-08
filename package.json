@@ -7,7 +7,8 @@
     "create": "index.js"
   },
   "scripts": {
-    "create": "node index.js",
+    "mmrs": "./index.js",
+    "create": "./index.js",
     "test": ""
   },
   "repository": {
