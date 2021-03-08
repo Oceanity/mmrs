@@ -4,10 +4,10 @@
   "description": "Node script to generate MMRS files from ZSEQ",
   "main": "index.js",
   "bin": {
-    "mmrs": "index"
+    "create": "index.js"
   },
   "scripts": {
-    "create": "node index",
+    "create": "node index.js",
     "test": ""
   },
   "repository": {

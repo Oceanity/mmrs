@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require("fs"),
     zip = require("adm-zip"),
     zseqRegex = /(.+)_([0-9a-f]{1,2})_((?:\d+[,-]?)+)\.zseq/i;
