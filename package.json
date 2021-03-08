@@ -1,0 +1,27 @@
+{
+  "name": "mmrs",
+  "version": "1.0.0",
+  "description": "Node script to generate MMRS files from ZSEQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oceanity/mmrs.git"
+  },
+  "keywords": [
+    "MMR",
+    "Randomizer",
+    "Music"
+  ],
+  "author": "Oceanity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oceanity/mmrs/issues"
+  },
+  "homepage": "https://github.com/Oceanity/mmrs#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.3"
+  }
+}
