@@ -2,6 +2,6 @@
 
 Node script to generate MMRS files from ZSEQ
 
-# usage
+## Usage
 
-### mmrs <ZSEQ File> [, Additional Files]
+    npx mmrs create ZSeqFile.zseq [, additional zipped files]
